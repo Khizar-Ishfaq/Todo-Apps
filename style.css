@@ -1,0 +1,56 @@
+body{
+    min-width: 383px !important;
+}
+#mainDiv{
+    text-align: center !important;
+    padding: auto !important;
+}
+ul{
+    list-style: none !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+
+}
+li {
+    font-size: 24px !important;
+    width: auto !important;
+    text-align: left;
+    padding: 3px !important;
+    padding-bottom: 6px !important;
+    margin-bottom: 3px !important;
+  
+}
+.btn{
+    float: right !important;
+    margin-left: 5px !important;
+
+}
+i{  margin: auto !important;
+    text-align: center !important;
+    font-size: 22px !important;
+}
+.card{
+    margin: auto !important;
+    width: fit-content !important;
+    margin-top: 15px !important;
+    text-align: justify !important;
+}
+input{
+    text-align: left !important;
+    margin: auto !important;
+    width: 250px !important;
+    height: 36px !important;
+    border-radius: 6px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+
+}
+.card{
+    padding: 2px !important;
+
+}
+#deleted{
+    padding-top: 5px !important;   
+    
+}
+
